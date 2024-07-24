@@ -1,0 +1,10 @@
+# Footer navigation links
+
+- title: Inicio
+  url: /
+
+# - title: Blog
+#   url: /blog/
+
+- title: Contáctanos
+  url: /contact/

@@ -1,0 +1,197 @@
+# Esto se esta comentando solo por motivos de la presentacion
+- title: Niewtech
+  subtitles:
+    - subtitle: 
+      docs:
+        - general/nosotros
+        - general/nuestros-productos
+#     - subtitle: 
+#       docs:
+#         - general/roles-merchant
+#         - general/roles-site
+# - title: Como crear mi Sitio Web?
+#   docs:
+#   - site-onboarding/crear-site
+#   - site-onboarding/asignar-dominio
+#   - site-onboarding/crear-superadmin
+#   - site-onboarding/configuraciones-iniciales
+#   - site-onboarding/crear-cliente-interactive
+# TODO: verify what are the differences between singleplace and marketplace in sitecentral, since in this menu the same options and texts are used in both
+# - title: Primeros pasos para iniciar el singleplace
+#   subtitles:
+#     - subtitle: Subtitle
+#       docs:
+#         - primeros-pasos/iniciar-sesion-site 
+#        # - primeros-pasos/modificar-site 
+#         - temas/usuarios/equipo/crear-equipo
+#         - primeros-pasos/asignar-lista-destinatarios # solo si es singleplace
+#         - primeros-pasos/nuevo-proveedor-de-pago
+#         - primeros-pasos/nueva-opcion-de-pago
+#         - temas/promociones/cupones/cupon
+#         - temas/logistica/metodos_envio/metodos
+#         - temas/logistica/coberturas_tarifas/coberturas
+#         - temas/logistica/coberturas_tarifas/tarifas
+#         - temas/logistica/tamanios_envios/envios
+#         - temas/logistica/transportistas/transportista
+#         - temas/logistica/transportistas/transportista-seleccion
+#         - temas/logistica/asignacion/asignacion
+#         - temas/promociones/campañas/campania
+#         - primeros-pasos/crear-plantillas-email
+#         - primeros-pasos/crear-plantillas-web #
+#         - primeros-pasos/subir-carpeta-medios #
+#         - primeros-pasos/nueva-marca 
+#         - primeros-pasos/nueva-categoria
+#         - primeros-pasos/nuevo-almacen #
+#         - primeros-pasos/nuevo-producto
+#         - primeros-pasos/nuevo-pedido
+#         - primeros-pasos/asignar-herramienta-seguimiento #
+- title: Site
+  subtitles:
+    - subtitle: General
+      docs:
+        - primeros-pasos/inicio-dashboard
+        - primeros-pasos/iniciar-sesion-site
+    - subtitle: Merchants
+      docs:
+        # - primeros-pasos/modificar-site
+        - temas/merchant/merchant
+        - temas/merchant/tienda
+    - subtitle: Usuarios
+      docs:
+        - temas/usuarios/equipo/crear-equipo
+        - temas/usuarios/clientes/ver-cliente
+    - subtitle: Catalogo
+      docs:
+        - temas/operaciones-masivas-site
+        - primeros-pasos/nueva-marca
+        - primeros-pasos/nueva-categoria
+    - subtitle: Reportes
+      docs:
+        - temas/estado-de-operaciones-masivas-site
+    - subtitle: Ordenes
+      docs:
+        - primeros-pasos/nuevo-pedido
+        - temas/ordenes/orden-pedidos-activos
+        - temas/ordenes/orden-pedidos-finalizados
+        - temas/ordenes/disputas
+    - subtitle: Promociones
+      docs:
+        - temas/promociones/cupones/cupon
+        - temas/promociones/campanias/campania
+    - subtitle: CMS
+      docs:
+        #- paginas-dinamicas  
+        - temas/cms/carpeta-medios
+        #- data jerarquica
+        #- temas
+    - subtitle: Notificaciones
+      docs:
+        - primeros-pasos/crear-plantillas-email
+        - primeros-pasos/asignar-lista-destinatarios
+        - temas/notificaciones/proveedores
+        - temas/notificaciones/historial-buscar-por-el-asunto-del-mensaje
+        #- clientes de integracion
+        # - temas/notificaciones/crear-suscripciones
+    
+        # - primeros-pasos/asignar-herramienta-seguimiento
+        #- errores de integracion
+    - subtitle: Logisticas
+      docs:
+        - temas/logistica/metodos_envio/metodos
+        - temas/logistica/coberturas_tarifas/coberturas
+        - temas/logistica/coberturas_tarifas/tarifas
+        - temas/logistica/tamanios_envios/envios
+        - temas/logistica/transportistas/transportista
+        - temas/logistica/asignacion/asignacion
+        # - temas/logistica/transportistas/transportista-seleccion
+        # - temas/merchant/almacenes/almacen
+    # - subtitle: Finanzas
+    #   docs:
+    #     - primeros-pasos/nuevo-proveedor-de-pago
+    #     - primeros-pasos/nueva-opcion-de-pago
+        # - primeros-pasos/nuevo-proveedor-de-email
+        # - primeros-pasos/crear-plantillas-web
+        # - primeros-pasos/subir-carpeta-medios
+        # - primeros-pasos/nuevo-producto
+- title: Merchant
+  subtitles:
+    - subtitle: General
+      docs:
+        - primeros-pasos/inicio-dashboard-merchant
+        - primeros-pasos/iniciar-sesion-merchant
+    - subtitle: Merchants
+      docs:
+        - temas/merchant/tienda-merchant
+    - subtitle: Usuarios
+      docs:
+        - temas/usuarios/equipo/crear-equipo-merchant
+    - subtitle: Catalogo
+      docs:
+        - primeros-pasos/nuevo-producto
+        - temas/operaciones-masivas
+        - temas/carga-de-imagenes
+        - temas/catalogo/marca-merchant
+        - primeros-pasos/nueva-categoria-merchant
+    - subtitle: Reportes
+      docs:
+        - temas/estado-de-operaciones-masivas
+    - subtitle: Ordenes
+      docs:
+        - temas/ordenes/orden-pedidos-activos-merchant
+        - temas/ordenes/orden-pedidos-finalizados-merchant
+        #- paginas-dinamicas  
+    - subtitle: CMS
+      docs:
+        - temas/cms/carpeta-medios
+    - subtitle: Notificaciones
+      docs:
+        - primeros-pasos/asignar-lista-destinatarios-merchant
+        #- clientes de integracion
+        # - temas/notificaciones/crear-suscripciones
+        # - primeros-pasos/asignar-herramienta-seguimiento
+        # - primeros-pasos/crear-plantillas-web-merchant #pendiente
+        # - primeros-pasos/nueva-marca-merchant #pendiente
+        # - primeros-pasos/nueva-categoria-merchant #pendiente
+    - subtitle: Logisticas
+      docs:
+        - temas/merchant/almacenes/almacen
+# - title: Temas
+#   subtitles:
+#     - subtitle: Subtitle
+#       docs:
+#         #TODO: verify which ones are not in the previous titles
+#         - temas/catalogo/categoria
+#         - temas/catalogo/marca
+#         - temas/catalogo/producto
+#         - temas/cms/carpeta-medios
+#         # - temas/cms/data-jerarquica
+#         - temas/logistica/metodos_envio/metodos
+#         - temas/logistica/coberturas_tarifas/coberturas
+#         - temas/logistica/coberturas_tarifas/tarifas
+#         - temas/logistica/tamanios_envios/envios
+#         - temas/logistica/transportistas/transportista
+#         - temas/logistica/transportistas/transportista-seleccion
+#         - temas/logistica/asignacion/asignacion
+#         - temas/promociones/campanias/campania
+#         - temas/merchant/almacenes/almacen
+#         - temas/merchant/merchant
+#         - temas/merchant/tienda
+#         - temas/notificaciones/crear-suscripciones
+#         - temas/notificaciones/proveedores
+#         # - temas/notificaciones/historial-buscar-por-correo-electronico
+#         - temas/notificaciones/historial-buscar-por-el-asunto-del-mensaje
+#         - temas/notificaciones/plantilla-agregar-plantilla
+#         - temas/operaciones-masivas
+#         - temas/estado-de-operaciones-masivas
+#         # - temas/ordenes/cliente
+#         - temas/promociones/cupones/cupon
+#         # - temas/ordenes/orden-disputa
+#         - temas/ordenes/orden-pedidos-activos
+#         - temas/ordenes/orden-pedidos-finalizados
+#         - temas/pagos/opcion-pago
+#         # - temas/primeros-pasos/nuevo-proveedor-de-pago
+#         - temas/pagos/tipo-de-cambio
+#         # - temas/equipo/equipo
+#         # - temas/sitecentral
+#         # - temas/integraciones/integracion-cliente
+#         # - temas/integraciones/integracion-subscripcion
